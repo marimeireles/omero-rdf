@@ -61,7 +61,6 @@ Changelog = "https://github.com/German-BioImaging/omero-rdf/blob/master/CHANGES.
 
 # Subplugins should register there entrypoints like this:
 # [project.entry-points."omero_rdf.annotation_handler"]
-# idr_annotations = "omero_rdf_wikidata.idr_annotations:IDRAnnotationHandler"
 
 [tool.setuptools]
 package-dir = {""= "src"}
